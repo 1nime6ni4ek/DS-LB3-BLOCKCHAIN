@@ -24,8 +24,8 @@
 
 ## Результати тестування
 
-![UML Class Diagram](DS-LB3-BLOCKCHAIN/data/result1.jpg)
-![UML Class Diagram](DS-LB3-BLOCKCHAIN/data/result2.jpg)
+![UML Class Diagram](data/result1.jpg)
+![UML Class Diagram](data/result2.jpg)
 
 ## Функції продукту (короткий опис)
 
