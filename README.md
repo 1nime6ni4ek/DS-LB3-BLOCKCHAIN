@@ -14,7 +14,7 @@
 
 ## UML Діаграма класів
 
-![UML Class Diagram](LB3_DS_BLOCKSHAIN/data/diagram.png)
+![UML Class Diagram](DS-LB3-BLOCKCHAIN/data/diagram.png)
 
 **Діаграма показує:**
 - Криптографічні класи (Hash, KeyPair, Signature)
@@ -24,8 +24,8 @@
 
 ## Результати тестування
 
-![UML Class Diagram](LB3_DS_BLOCKSHAIN/data/result1.jpg)
-![UML Class Diagram](LB3_DS_BLOCKSHAIN/data/result2.jpg)
+![UML Class Diagram](DS-LB3-BLOCKCHAIN/data/result1.jpg)
+![UML Class Diagram](DS-LB3-BLOCKCHAIN/data/result2.jpg)
 
 ## Функції продукту (короткий опис)
 
